@@ -7,7 +7,7 @@ $ npm install jasmine-node -g
 ```
 
 ### Run Spec
-
+###
 ```sh
 # manual run
 $ jasmine-node --color .
